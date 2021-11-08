@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618370265303",
+    "project_id": "designmytrip-86641",
+    "storage_bucket": "designmytrip-86641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618370265303:android:4161fd5951c46b74fe8092",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618370265303-b95uci3dbfnqlqbo2vlalpi5c6bc3qi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_app",
+            "certificate_hash": "83449081cea2118b13eb7b70652ad632fa321192"
+          }
+        },
+        {
+          "client_id": "618370265303-1372sdq71feg8ujenbjaq85hvjt38298.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwL6a4Aid84OLrD0dOtjfXExgO3-iPDwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618370265303-1372sdq71feg8ujenbjaq85hvjt38298.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
